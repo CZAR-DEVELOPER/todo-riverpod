@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466712135858",
+    "project_id": "alan-todo-48828",
+    "storage_bucket": "alan-todo-48828.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466712135858:android:faf3a9ca7208a590fa61ab",
+        "android_client_info": {
+          "package_name": "com.example.alan_todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR75UbWVFGTRA7gE6thKCBMbjQ4DkB91Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
